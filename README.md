@@ -1,1 +1,1 @@
-# CompetitiveCPlusPlus
+# Competitive C++
